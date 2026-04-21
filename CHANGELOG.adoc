@@ -1,5 +1,7 @@
 = Changelog
 
+== 1.39.0 (unreleased)
+
 == 1.38.0 (2026-04-22)
 
 * **[Rust]** Recursively call nullify_optional_fields on composites
