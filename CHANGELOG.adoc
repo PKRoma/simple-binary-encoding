@@ -1,5 +1,7 @@
 = Changelog
 
+== 1.39.0 (unreleased)
+
 == 1.38.1 (2026-04-28)
 
 * Upgrade to `Agrona` 2.4.1.
